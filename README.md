@@ -1,6 +1,6 @@
 # angular-assignment-app
 binome: AASEMY YASSINE
-        AYOUB ASSRI
+        et AYOUB ASSRI
 
 ameliorations apportées: authentificatoin avec Jwt
 /*il reste encore qq petits buggs que j'essai de corriger :(
