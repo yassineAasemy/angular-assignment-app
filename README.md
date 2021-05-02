@@ -3,7 +3,7 @@ binome: AASEMY YASSINE
         AYOUB ASSRI
 
 ameliorations apportées: authentificatoin avec Jwt
-/*il reste encore qq petits bugg que j'essai de corriger :(
+/*il reste encore qq petits buggs que j'essai de corriger :(
 la chaine de cnx avec mongodb cloud n'a pas marché pour moi, j'ai trouvé
 un tuto qui montre comment faire on local
 https://www.youtube.com/watch?v=brb4SO-dO_k
